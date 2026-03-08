@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "one" {
-  bucket = "terraform import aws_s3_bucket.one suresh-monolithic-77.flm"
+  bucket = "suresh99.flm.moonobucket"
 }
 
 resource "aws_s3_bucket_ownership_controls" "two" {
